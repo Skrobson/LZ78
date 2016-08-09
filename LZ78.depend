@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1460751198 source:d:\c\lz78\main.c
+	"trie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1460747560 source:d:\c\lz78\trie.c
+	"trie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1460747534 d:\c\lz78\trie.h
+	<stdio.h>
+	<stdlib.h>
+
+1460751925 source:d:\c\lz78\files.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1460750265 d:\c\lz78\files.h
+	<stdio.h>
+	<stdlib.h>
+
+1460753114 source:c:\users\skrobson\desktop\c\lz78\files.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1460750265 c:\users\skrobson\desktop\c\lz78\files.h
+	<stdio.h>
+	<stdlib.h>
+
+1460832223 source:c:\users\skrobson\desktop\c\lz78\trie.c
+	"trie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1460832161 c:\users\skrobson\desktop\c\lz78\trie.h
+	<stdio.h>
+	<stdlib.h>
+
+1460833680 source:c:\users\skrobson\desktop\c\lz78\code.c
+	<stdio.h>
+	<stdlib.h>
+	"code.h"
+	"trie.h"
+
+1460832950 c:\users\skrobson\desktop\c\lz78\code.h
+	"files.h"
+	"trie.h"
+
+1460832897 source:c:\users\skrobson\desktop\c\lz78\main.c
+	"trie.h"
+	"code.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464711043 source:d:\lz78\code.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"code.h"
+	"trie.h"
+
+1464711043 d:\lz78\code.h
+	"files.h"
+	"trie.h"
+	<stdint.h>
+
+1463470630 d:\lz78\files.h
+	<stdio.h>
+	<stdlib.h>
+
+1461514844 d:\lz78\trie.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1463470630 source:d:\lz78\files.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"files.h"
+
+1464711491 source:d:\lz78\main.c
+	"files.h"
+	"code.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<unistd.h>
+
+1461529060 source:d:\lz78\trie.c
+	"trie.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1463470630 source:f:\lz78\files.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"files.h"
+
+1463470630 f:\lz78\files.h
+	<stdio.h>
+	<stdlib.h>
+
+1462469314 source:f:\lz78\main.c
+	"files.h"
+	"code.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<unistd.h>
+
+1463470691 f:\lz78\code.h
+	"files.h"
+	"trie.h"
+	<stdint.h>
+
+1461514844 f:\lz78\trie.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1461529060 source:f:\lz78\trie.c
+	"trie.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1464115459 source:f:\lz78\code.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"code.h"
+	"trie.h"
+
